@@ -132,3 +132,9 @@
 {"level":"info","message":true}
 {"level":"info","message":"https://api.tfl.gov.uk/Journey/JourneyResults/NW5 1TL/to/490008660S"}
 {"level":"warn","message":"No buses from this stop"}
+{"level":"info","message":true}
+{"level":"info","message":"https://api.tfl.gov.uk/Journey/JourneyResults/NW5 1TL/to/490008660S"}
+{"level":"warn","message":"No buses from this stop"}
+{"level":"info","message":"postcode NW5 1NU"}
+{"level":"info","message":"postcode BR1 1DN"}
+{"level":"info","message":"https://api.tfl.gov.uk/Journey/JourneyResults/NW5 1NU/to/BR1 1DN"}
